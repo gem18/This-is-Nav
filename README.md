@@ -1,2 +1,2 @@
 # This-is-Nav
-A website focused on frontend development.
+A simple website focused on frontend development.
